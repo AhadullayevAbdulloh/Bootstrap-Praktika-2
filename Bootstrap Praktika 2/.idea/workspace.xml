@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc370ad4-f9ed-4d25-bc98-a22d7184cf1f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UcG1LCQMubzVmtozkZeyb0sckz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\IT PARK\Desktop\Abdulloh\Dasturlash\Bootstrap\Bootstrap 10-dars Vazifa\rasm" />
+      <recent name="C:\Users\IT PARK\Desktop\Abdulloh\Dasturlash\Bootstrap\Bootstrap 10-dars Vazifa" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc370ad4-f9ed-4d25-bc98-a22d7184cf1f" name="Default Changelist" comment="" />
+      <created>1693231238557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693231238557</updated>
+      <workItem from="1693231239729" duration="1744000" />
+      <workItem from="1693233022013" duration="1503000" />
+      <workItem from="1693400809791" duration="1724000" />
+      <workItem from="1693402567724" duration="1775000" />
+      <workItem from="1693404377290" duration="1778000" />
+      <workItem from="1693406199024" duration="1357000" />
+      <workItem from="1693683810385" duration="281000" />
+      <workItem from="1693684749155" duration="935000" />
+      <workItem from="1693685732678" duration="626000" />
+      <workItem from="1693686664276" duration="592000" />
+      <workItem from="1693769688124" duration="212000" />
+      <workItem from="1693770064216" duration="254000" />
+      <workItem from="1693770456146" duration="186000" />
+      <workItem from="1693770724429" duration="61000" />
+      <workItem from="1693770829465" duration="24000" />
+      <workItem from="1693771084490" duration="416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="592" y="217" key="FileChooserDialogImpl" timestamp="1693770852249">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1693770852249" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1693404993595" />
+    <state x="616" y="242" key="run.anything.popup" timestamp="1693405218664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1693405218664" />
+  </component>
+</project>

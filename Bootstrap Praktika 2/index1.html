@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+
+</head>
+<body>
+
+<div class="container">
+    <div class="row my-3 ">
+        <div class="col-md-12 my-3 ">
+            <ul class="list-group ">
+                <li class="list-group-item d-flex justify-content-between align-items-center ">
+                    Account settings<span class="badge badge-secondary"></span>
+                </li>
+            </ul>
+        </div>
+        <div class="col-md-6 my-3 ">
+            <ul class="list-group">
+                <li class="list-group-item d-flex justify-content-between align-items-center dropdown-toggle "  data-toggle="collapse" data-target="#myBox">
+                    Personal information
+                </li>
+                <div class=" collapse " id="myBox">
+                    <div class="card">
+                        <div class="card-body">
+                            <form action="#">
+                                <div class="form-group">
+                                    <label for="name">Account name*</label>
+                                    <input type="text" id="name" class="form-control col-md-9" placeholder="Account name">
+                                </div>
+                                <div class="form-group">
+                                    <label for="user">User name*</label>
+                                    <input type="text" id="user" class="form-control col-md-9" placeholder="User name">
+                                </div>
+                                <h6 class="harf">Sizning tizimdagi accountingiz https://pinup.uz/account/accountName</h6>
+                                <div class="form-group">
+                                    <label for="Email">Email adress*</label>
+                                    <input type="text" id="Email" class="form-control col-md-9" placeholder="Email adress">
+                                </div>
+                                <div class="input-group">
+                                    <div class="form-group">
+                                        <label for="Password">Your Password</label>
+                                        <input type="Password" id="Password" class="form-control col-md-9" placeholder="Your Password">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="confirm">Confirm password*</label>
+                                        <input type="text" id="confirm" class="form-control col-md-9" placeholder="Confirm password">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="address">Site address</label>
+                                    <input type="text" id="address" class="form-control col-md-9" placeholder="Your web site address">
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+
+                </div>
+            </ul>
+        </div>
+        <div class="col-md-6 my-3 ">
+            <ul class="list-group">
+                <li class="list-group-item d-flex justify-content-between align-items-center dropdown-toggle" data-toggle="collapse" data-target="#ikkinchi">
+                    Profile image & cover
+                </li>
+                <div class=" collapse " id="ikkinchi">
+                    <div class="card">
+                        <div class="input-group">
+                            <div class="card-body">
+                                <img src="rasm/1.jpg" alt="" height="100px">
+                                <h5 style="position: absolute;left: 150px; top: 50px; ">Profile image</h5>
+                                <p style="position: absolute;left: 150px; top: 80px; font-size: 13px ">JPG, GIF or PNG 100x1000px</p>
+                                <button type="button" class="btn btn-success" style="position: absolute;left: 410px; top: 50px;font-size: 11px ">Upload image</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </ul>
+        </div>
+        <div class="col-md-6 my-3 ">
+            <ul class="list-group">
+                <li class="list-group-item d-flex justify-content-between align-items-center dropdown-toggle" data-toggle="collapse" data-target="#myBoxx">
+                Billing information
+                </li>
+            </ul>
+            <div class=" collapse " id="myBoxx">
+                <div class="card">
+                    <div class="card-body">
+                        <form action="#" id="collapse">
+                            <div class="form-group float-left">
+                                <label for="aaaa">First name</label>
+                                <input type="text" id="aaaa" class="form-control" placeholder="First name">
+                            </div>
+                            <div class="form-group float-left">
+                                <label for="abaa">Last name</label>
+                                <input type="text" id="abaa" class="form-control" placeholder="Last name">
+                            </div>
+                            <div class="form-group">
+                                <label for="abcc">Company name</label>
+                                <input type="text" id="abcc" class="form-control" placeholder="Company name">
+                            </div>
+                            <div class="form-group">
+                                <label for="abcdda">Email adress</label>
+                                <input type="email" id="abcdda" class="form-control" placeholder="Email adress">
+                            </div>
+                            <div class="form-group">
+                                <label for="babd">Country</label>
+                                <input type="email" id="babd" class="form-control" placeholder="Select one">
+                            </div>
+                            <div class="form-group">
+                                <label for="abcddaa">Adress line 1</label>
+                                <input type="text" id="abcddaa" class="form-control" placeholder="Your adress">
+                            </div>
+                            <div class="form-group">
+                                <label for="abcddaaa">Adress line 2</label>
+                                <input type="text" id="abcddaaa" class="form-control" placeholder="Your adress">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="col-md-6 my-3 ">
+            <ul class="list-group" data-toggle="collapse" data-target="#myBox1">
+                <li class="list-group-item d-flex justify-content-between align-items-center dropdown-toggle">
+                    Social profile
+                </li>
+            </ul>
+                <div class="collapse" id="myBox1">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="form-group for">
+                                <label for="la" class="lab"><img src="rasm/fb.png" width="30px" alt=""></label>
+                                <input type="text" id="la" placeholder="ex.www.fasebook.com/username" class="form-control">
+                                <label for="la1" class="lab"><img src="rasm/tg.png" width="30px" alt=""></label>
+                                <input type="text" id="la1" placeholder="ex.www.telegram.com/username" class="form-control">
+                                <label for="la2" class="lab"><img src="rasm/tw.png" width="30px" alt=""></label>
+                                <input type="text" id="la2" placeholder="ex.www.twitter.com/username" class="form-control">
+                                <label for="la3" class="lab"><img src="rasm/inst.png" width="30px" alt=""></label>
+                                <input type="text" id="la3" placeholder="ex.www.instagram.com/username" class="form-control">
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+        </div>
+        <div class="col-md-6 my-3 oq">
+            <ul class="list-group">
+                <li class="list-group-item d-flex justify-content-between align-items-center dropdown-toggle" data-toggle="collapse" data-target="#Beshinchi">
+                    Contact settings
+                </li>
+                <div class=" collapse " id="Beshinchi">
+                    <div class="card">
+                        <div class="card-body">
+                            <input type="checkbox">
+                            <label >Telefon raqamini ko'rsatish</label>
+                            <p style="position: absolute;top: 40px; left: 38px; font-size: 13px ">Telefon raqamini ko'rsatish yoki yashirish</p>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </ul>
+        </div>
+
+    </div>
+</div>
+
+<script src="js/jQuery.min.js"></script>
+<script src="js/src/popover.js"></script>
+<script src="js/bootstrap.js"></script>
+</body>
+</html>
